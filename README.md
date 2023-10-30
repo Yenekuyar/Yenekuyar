@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Ploomes](https://www.ploomes.com/ploomes-crm-completo)
 
-- 🌱 I’m currently learning **React, JS, CSS3, HTML5, TS**
+- 🌱 I’m currently learning **React, JS, CSS3, HTML5, TS and AngularJS**
 
 - 👨‍💻 All of my projects are available at [github.com/Yenekuyar](github.com/Yenekuyar)
 
